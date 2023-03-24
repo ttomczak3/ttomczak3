@@ -25,7 +25,7 @@ Currently, I am targeting a full-stack developer role where I can leverage my ex
 
 #
 
-### 📊 Stats
+### :bar_chart: Stats
 
 ![Tristen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttomczak3&show_icons=true&theme=tokyonight)
 
