@@ -6,7 +6,7 @@ As a software developer with expertise in C# and TypeScript, I bring a unique se
 
 Currently, I am targeting a full-stack developer role where I can leverage my experience and skills to build robust and innovative solutions for clients. If you're looking for a developer who can bring both technical expertise and strong communication skills to your team, please don't hesitate to reach out!
 
----
+#
 
 ### 🧰 Languages and Tools
 
