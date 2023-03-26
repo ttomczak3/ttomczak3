@@ -1,4 +1,4 @@
-# :bicyclist: Tristen Tomczak
+# Tristen Tomczak <img alt="jojo" width="30px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGM5NTllM2ExNTQ0N2I4OWU3NDA2MmViNDAxMDAyMGMwMjE1YTEwNyZjdD1z/fu8GmsXKFzgOjMgjLp/giphy.gif"/>
 
 **`Digital Craftsman (Developer)`**
 
