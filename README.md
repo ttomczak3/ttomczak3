@@ -29,4 +29,4 @@ Currently, I am targeting a full-stack developer role where I can leverage my ex
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ttomczak3&show_icons=true&theme=tokyonight"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttomczak3&layout=compact"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttomczak3&theme=tokyonight&layout=compact"/>
