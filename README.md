@@ -27,6 +27,6 @@ Currently, I am targeting a full-stack developer role where I can leverage my ex
 
 ### :bar_chart: Stats
 
-![Tristen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ttomczak3&show_icons=true&theme=tokyonight)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ttomczak3&show_icons=true&theme=tokyonight"/>
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ttomczak3&theme=tokyonight&border_radius=4.5) -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttomczak3&layout=compact"/>
