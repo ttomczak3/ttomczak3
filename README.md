@@ -1,4 +1,4 @@
-# <img alt="jojo" width="50px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTc4M2YyM2UwNDRmODQzMDZlOTQwZjNmZTcyZjk5YzdmZmY0MmE4YSZjdD1z/rtRflhLVzbNWU/giphy.gif"/> Tristen Tomczak
+# <img alt="jojo" width="40px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTc4M2YyM2UwNDRmODQzMDZlOTQwZjNmZTcyZjk5YzdmZmY0MmE4YSZjdD1z/rtRflhLVzbNWU/giphy.gif"/> Tristen Tomczak
 
 **`Digital Craftsman (Developer)`**
 
