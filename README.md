@@ -28,9 +28,4 @@ Currently, I am targeting a full-stack developer role where I can leverage my ex
 
 ### :bar_chart: Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ttomczak3&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttomczak3&theme=tokyonight&layout=compact"/>
-<br /><br />
-
-<img src="https://www.codewars.com/users/ttomczak3/badges/large/">
+<img src="https://github-readme-stats.vercel.app/api?username=ttomczak3&show_icons=true&theme=tokyonight"/>
