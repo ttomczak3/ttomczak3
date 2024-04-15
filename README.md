@@ -10,8 +10,11 @@ Currently, I am targeting a full-stack developer role where I can leverage my ex
 
 ### :computer: Languages and Tools
 
-#### Programming Languages and Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,angular,css,html,js,bootstrap,tailwind,jquery,astro)](https://skillicons.dev)
+#### Languages:
+[![My Skills](https://skillicons.dev/icons?i=cs,ts,css,html,js)](https://skillicons.dev)
+
+#### Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=dotnet,angular,bootstrap,tailwind,jquery,astro)](https://skillicons.dev)
 
 #### Development Tools:
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,neovim,postman,powershell)](https://skillicons.dev)
