@@ -10,17 +10,20 @@ Currently, I am targeting a full-stack developer role where I can leverage my ex
 
 ### :computer: Languages and Tools
 
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="DotNetCore" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="PostGres" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-<img align="left" alt="Astro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg"/>
-<img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/>
+#### Programming Languages and Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,angular,css,html,js,bootstrap,tailwind,jquery)](https://skillicons.dev)
+
+#### Development Tools:
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,neovim,postman,powershell)](https://skillicons.dev)
+
+#### Database and Storage:
+[![My Skills](https://skillicons.dev/icons?i=sqlite,mysql,azure)](https://skillicons.dev)
+
+#### Version Control and Collaboration:
+[![My Skills](https://skillicons.dev/icons?i=gitlab,github,git)](https://skillicons.dev)
+
+#### Other Tools and Platforms:
+[![My Skills](https://skillicons.dev/icons?i=astro,docker,godot,wordpress)](https://skillicons.dev)
 
 <br />
 
