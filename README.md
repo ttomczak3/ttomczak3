@@ -2,9 +2,7 @@
 
 **`Digital Craftsman (Developer)`**
 
-As a software developer with expertise in C# and TypeScript, I bring a unique set of skills to any development team. What sets me apart from others in my field is my strong communication skills, which enable me to collaborate effectively with colleagues and clients alike.
-
-Currently, I am targeting a full-stack developer role where I can leverage my experience and skills to build robust and innovative solutions for clients. If you're looking for a developer who can bring both technical expertise and strong communication skills to your team, please don't hesitate to reach out!
+I’m a software developer with experience working with non-profits and open-source projects; contributing to both online and local communities. My skill set includes expertise in front-end and back-end development, with proficiency in C#, ILE RPG, SQL, TypeScript, and JavaScript.
 
 #
 
